@@ -1,0 +1,17 @@
+ORIGINAL PROJECT FILE VERIFICATION
+
+All included original Data Visualisation project files were verified byte-for-byte against the supplied source archive using SHA-256.
+No original JavaScript, HTML, CSS, CSV, spreadsheet, image, configuration, library, or README file was modified.
+
+Excluded from this repository package:
+- .DS_Store operating-system metadata
+- .idea IDE metadata
+- isp/ (separate Intelligent Signal Processing coursework packaged independently)
+
+Original files copied and verified: 70
+Mismatches: 0
+
+Added support files:
+- PROJECT_OVERVIEW.md
+- .gitignore
+- ORIGINAL_FILES_VERIFIED.txt
